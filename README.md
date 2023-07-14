@@ -1,2 +1,2 @@
 # hello-world
-Exercício aula "Setup de Ferramentas"
+Exercício da aula "Setup de Ferramentas" do curso de back end da Cubos Academy.
